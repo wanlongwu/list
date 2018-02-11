@@ -1,0 +1,24 @@
+.nav-bar {
+  background-color: #387D7A;
+}
+
+.nav-bar-body {
+  display: flex;
+  justify-content: space-between;
+  width: 60%;
+  margin-right: 0px;
+  margin-left: auto;
+  align-content: center;
+}
+
+.nav-bar-body h1{
+  color: white;
+  text-align: center;
+}
+
+.nav-bar-body a{
+  text-align: center;
+  padding-top: 20px;
+  color: white;
+  font-size: 25px;
+}

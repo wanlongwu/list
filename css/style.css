@@ -1,0 +1,11 @@
+@import url("components/form.css");
+@import url("components/navbar.css");
+
+
+
+.wrapper {
+  margin: 0 auto;
+  width: 30%;
+  font-size: 20px;
+  background-color: #E6E6E6;
+}
